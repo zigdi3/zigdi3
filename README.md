@@ -1,8 +1,8 @@
-### What's Up, I'm Diego 👋
+### What's Up, My name is Diego 👋
 
-I'm Internet System Associate Former. Like cats, cyborgs,  javascript and much passion for tech's ambient.  
+I'm Internet System Associate. Like cats, cyborgs,  javascript and much passion for tech's ambient.  
 
-Enjoy the process than arrive on the final destiny. Always we can to learn more each others.
+Enjoy the process than arrive on the final destiny. We always can to learn more each others.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zigdi3&show_icons=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -18,9 +18,10 @@ Enjoy the process than arrive on the final destiny. Always we can to learn more 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zigdi3&repo=FizzBuzz_elixir&locale=pt-br)](https://github.com/zigdi3/FizzBuzz_elixir)  
 
-#### Contato:
+#### Job Contact:
 Email me for: diegozigoto@gmail.com
+
+#### Time to relax:
 Come on to cooperative games: 
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 [zigdi3's Profile ](https://steamcommunity.com/id/zigdi3/)
-
