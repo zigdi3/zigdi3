@@ -22,10 +22,7 @@ Enjoy the process than arrive on the final destiny. We always can to learn more 
 Email me for: diegozigoto@gmail.com
 
 #### Time to relax:
-Come on to cooperative games: 
-
-##
-
+Call me to cooperative games:
 <div>
-<a href= "https://steamcommunity.com/id/zigdi3/" target="_blank" ><img style="width: 100%" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"> </a>
+<a href= "https://steamcommunity.com/id/zigdi3/" target="_blank" ><img style="width: 5%" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"> </a>
 </div>
