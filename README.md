@@ -23,5 +23,9 @@ Email me for: diegozigoto@gmail.com
 
 #### Time to relax:
 Come on to cooperative games: 
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-[zigdi3's Profile ](https://steamcommunity.com/id/zigdi3/)
+
+##
+
+<div>
+<a href= "https://steamcommunity.com/id/zigdi3/" target="_blank" ><img style="width: 100%" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"> </a>
+</div>
