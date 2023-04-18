@@ -14,7 +14,7 @@ Enjoy the process than arrive on the final destiny. We always can to learn more 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zigdi3&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 
 #### My principal projects are:  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zigdi3&repo=flash-car-api&locale=en)](https://github.com/zigdi3/retro-sundays-api)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zigdi3&repo=flash-card-api&locale=en)](https://github.com/zigdi3/retro-sundays-api)  
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zigdi3&repo=FizzBuzz_elixir&locale=pt-br)](https://github.com/zigdi3/FizzBuzz_elixir)  
 
