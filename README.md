@@ -1,7 +1,7 @@
 
 ### What's Up, my name is Diego 👋
 
-I'm Internet System Associate. Like cats, cyborgs,  javascript and much passion for tech's ambient.  
+I'm Internet System Associate. Like cats, Dragon Ball Z,  javascript and much passion for tech's ambient.  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zigdi3&show_icons=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 
