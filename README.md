@@ -10,7 +10,7 @@ I'm Internet System Associate. Like cats, Dragon Ball Z,  javascript and much pa
 - Student on [Alura](https://www.linkedin.com/school/aluracursos/)
 
 #### My hard skilled languages are:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zigdi3&hide=html&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zigdi3&hide=html&layout=compact&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 
 #### My principal projects are:  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zigdi3&repo=flash-card-api&locale=en)](https://github.com/zigdi3/flash-card-api)  
