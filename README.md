@@ -15,7 +15,7 @@ I'm Internet System Associate. Like cats, Dragon Ball Z,  javascript and much pa
 #### My principal projects are:  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zigdi3&repo=flash-card-api&locale=en)](https://github.com/zigdi3/flash-card-api)  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zigdi3&repo=flasd-card-frontend&locale=en)](https://github.com/zigdi3/flasd-card-frontend)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zigdi3&repo=manger-banckend&locale=en)](https://github.com/zigdi3/manger-banckend)
 
 #### Job Contact:
 Email me for: diegozigoto@gmail.com
