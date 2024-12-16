@@ -3,7 +3,7 @@
 
 I'm Internet System Associate. Like cats, Dragon Ball Z,  javascript and much passion for tech's ambient.  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zigdi3&show_icons=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zigdi3&show_icons=true&theme=onedark&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Working at:
 - Fullstack developer at [MOPE - Modelo Operacional](https://www.linkedin.com/company/mope---modelo-operacional)
