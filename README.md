@@ -6,8 +6,8 @@ I'm formed Internet System Associate. Like cats, Dragon Ball Z,  javascript and 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zigdi3&show_icons=true&theme=onedark&hide=issues&include_all_commits=true,prs&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Working at:
-- Fullstack developer at [MOPE - Modelo Operacional](https://www.linkedin.com/company/mope---modelo-operacional)
-- Student on [Alura](https://www.linkedin.com/school/aluracursos/)
+- Software Engineer at [ManPowerGroup](https://www.linkedin.com/company/manpowergroup/life/aboutmanpowergroup/)
+- Student on [Descomplica](https://www.linkedin.com/school/descomplicafaculdade/?originalSubdomain=br)
 
 #### My hard skilled languages are:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zigdi3&hide=html,handlebars&layout=compact&locale=en)](https://github.com/anuraghazra/github-readme-stats)
