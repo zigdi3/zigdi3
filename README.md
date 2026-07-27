@@ -3,19 +3,19 @@
 
 Graduated in Internet System Associate. Like cats, Dragon Ball Z,  javascript and much passion for tech's ambient.  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zigdi3&show_icons=true&theme=onedark&hide=issues&include_all_commits=true,prs&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=zigdi3&show_icons=true&theme=onedark&hide=issues&include_all_commits=true,prs&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Working at:
 - Software Engineer at [ManPowerGroup](https://www.linkedin.com/company/manpowergroup/life/aboutmanpowergroup/)
 - Student on [Descomplica](https://www.linkedin.com/school/descomplicafaculdade/?originalSubdomain=br)
 
 #### My hard skilled languages are:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zigdi3&hide=html,handlebars&layout=compact&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=zigdi3&hide=html,handlebars&layout=compact&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 
 #### My principal projects are:  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zigdi3&repo=flash-card-api&locale=en)](https://github.com/zigdi3/flash-card-api)  
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=zigdi3&repo=flash-card-api&locale=en)](https://github.com/zigdi3/flash-card-api)  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zigdi3&repo=manger-banckend&locale=en)](https://github.com/zigdi3/manger-banckend)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=zigdi3&repo=manger-banckend&locale=en)](https://github.com/zigdi3/manger-banckend)
 
 #### Job Contact:
 Email me for: diegozigoto@gmail.com
